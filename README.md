@@ -1,8 +1,8 @@
-# Automation Project
+# Adactin TC01 Project
 
-*Structure for creating a Basic Java Project.*
+*Adactin TC01.*
 
-**Java 7**
+**Java 8**
 
 * Maven
 * JUnit 4.12
