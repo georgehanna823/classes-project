@@ -1,6 +1,6 @@
-# Adactin TC01 Project
+# Classes Project
 
-*Adactin TC01.*
+*Classes project*
 
 **Java 8**
 
@@ -8,6 +8,6 @@
 * JUnit 4.12
 * Selenium 2.53
 
-Automation Project Using Selenium.
+Classes Project.
 
 [George Hanna](https://github.com/georgehanna823)
